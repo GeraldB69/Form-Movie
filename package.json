@@ -10,7 +10,7 @@
     "http-proxy": "^1.18.1",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.20",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "node-forge": "^0.10.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
